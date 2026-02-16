@@ -37,14 +37,22 @@ bash./fdf maps/42.fdf
 Map File Format
 Map files (.fdf) contain a grid of integers representing altitude values:
 0  0  0  0  0
+
 0 10 10 10  0
+
 0 10 20 10  0
+
 0 10 10 10  0
+
 0  0  0  0  0
+
 Optional: Add color values in hexadecimal after comma:
 0  0  0  0  0
+
 0 10,0xFF0000 10 10  0
+
 0 10 20,0x00FF00 10  0
+
 Controls
 
 ESC /or q: Close the window and exit
