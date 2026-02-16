@@ -36,6 +36,7 @@ Run the program with a map file:
 bash./fdf maps/42.fdf
 Map File Format
 Map files (.fdf) contain a grid of integers representing altitude values:
+
 0  0  0  0  0
 
 0 10 10 10  0
